@@ -18,6 +18,6 @@ void Delay(unsigned int time)
 	    for (j = 0; j < 23; j++)
 	    {
 	        
-      }
+	    }
 	}
 }
