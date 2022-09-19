@@ -14,7 +14,7 @@
 
 4(b) To demonstrate seven segment LED display and generate4 counting from 0 to 99
 
-4(c) INterface 8051 with D/A converter & generate square wave on Oscilloscope
+4(c) Interface 8051 with D/A converter & generate square wave on Oscilloscope
 
 5(a) Interface 8051 with D/A converter & generate
 
