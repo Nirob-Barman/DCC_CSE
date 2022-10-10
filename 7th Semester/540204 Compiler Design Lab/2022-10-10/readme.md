@@ -83,7 +83,7 @@ digit.l
 
  * a verb/not a verb
 
- */
+ x/
 
 %}
 
