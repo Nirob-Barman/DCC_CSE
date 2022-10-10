@@ -79,11 +79,11 @@ digit.l
 
 %{
 
-/*
+/`*`
 
- * a verb/not a verb
+ `*` a verb/not a verb
 
- x/
+ `*`/
 
 %}
 
