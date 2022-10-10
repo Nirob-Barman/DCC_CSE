@@ -86,7 +86,7 @@ root123
 
 %{
 
-/ `*`
+/`*`
 
   `*` a verb/not a verb
 
