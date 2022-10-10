@@ -64,6 +64,13 @@ digit.l
 #
 
 
+192.168.7.78
+
+cse
+
+root123
+
+#
 
 <p align="middle" float="left">
 
@@ -81,9 +88,9 @@ digit.l
 
 /`*`
 
- `*` a verb/not a verb
+  `*` a verb/not a verb
 
- `*`/
+  `*`/
 
 %}
 
