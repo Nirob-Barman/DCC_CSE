@@ -70,9 +70,9 @@ digit.l
 
 <p align="middle" float="left">
 
-  <img src="https://user-images.githubusercontent.com/47166768/194802084-2687ea69-7bbb-41cd-a91d-bb155d6857dc.png" width="333.33" height="249.975">
+  <img src="https://user-images.githubusercontent.com/47166768/194802084-2687ea69-7bbb-41cd-a91d-bb155d6857dc.png" width="449" height="438">
   
-  <img src="https://user-images.githubusercontent.com/47166768/194802117-b38e6378-8159-405d-9985-571150749f63.png" width="333.33" height="249.975">
+  <img src="https://user-images.githubusercontent.com/47166768/194802117-b38e6378-8159-405d-9985-571150749f63.png" width="449" height="438">
   
 </p>
 
