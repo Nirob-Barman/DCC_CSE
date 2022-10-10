@@ -11,6 +11,9 @@
 [Structure of Lex Programs](https://ecomputernotes.com/compiler-design/lex-use-of-lex)
 
 
+#
+
+
 FLEX (fast lexical analyzer generator) 
 
 
@@ -47,7 +50,7 @@ Step 4: Provide the input to program in case it is required
 Note: Press Ctrl+D or use some rule to stop taking inputs from the user. Please see the output images of below programs to clear if in doubt to run the programs.
 
 
-
+#
 
 Terminal
 vim
