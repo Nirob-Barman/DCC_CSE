@@ -13,6 +13,8 @@
 Structure of Lex Programs
 Lex program will be in following form
 
+
+```
 declarations
 
 %%
@@ -22,3 +24,6 @@ translation rules
 %%
 
 auxiliary functions
+```
+
+
