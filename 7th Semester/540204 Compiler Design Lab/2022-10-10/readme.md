@@ -55,3 +55,6 @@ digit.l
 2 mode - 
 - insert mode(i)
 - command mode(esc) 
+
+:wq(save and exit)
+
