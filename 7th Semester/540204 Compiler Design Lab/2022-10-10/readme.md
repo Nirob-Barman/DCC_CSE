@@ -65,9 +65,6 @@ digit.l
 
 
 
-192.168.7.78
-
-
 <p align="middle" float="left">
 
   <img src="https://user-images.githubusercontent.com/47166768/194802084-2687ea69-7bbb-41cd-a91d-bb155d6857dc.png" width="449" height="438">
