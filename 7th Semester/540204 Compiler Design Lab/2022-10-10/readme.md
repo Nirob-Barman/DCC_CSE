@@ -71,7 +71,19 @@ digit.l
   
   <img src="https://user-images.githubusercontent.com/47166768/194802117-b38e6378-8159-405d-9985-571150749f63.png" width="449" height="438">
   
+  ![image](https://user-images.githubusercontent.com/47166768/194802576-71de2fee-6d32-4819-91dd-b379f3ecb3e9.png)
+
+  
 </p>
+
+
+%{
+/*
+ * a verb/not a verb
+ *`/`
+%}
+
+
 
 
 
