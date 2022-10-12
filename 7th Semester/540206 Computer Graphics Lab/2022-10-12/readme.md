@@ -16,6 +16,20 @@ operations needed to produce interactive three-dimensional computergraphics appl
 page - 55,57, 62, 137
 
 
+Table 3.1 OpenGL Primitive Mode Tokens
+
+|Primitive| Type OpenGL Token|
+|-|-|
+|Points| GL_POINTS|
+|Lines| GL_LINES|
+|Line Strips| GL_LINE_STRIP|
+|Line Loops| GL_LINE_LOOP|
+|Independent| Triangles GL_TRIANGLES|
+|Triangle Strips| GL_TRIANGLE_STRIP|
+|Triangle Fans| GL_TRIANGLE_FAN|
+
+
+
 display mode
 
 
