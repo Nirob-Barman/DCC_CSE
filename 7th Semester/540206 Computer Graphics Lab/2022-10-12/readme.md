@@ -2,6 +2,7 @@
 
 [OpenGL Examples](https://cs.lmu.edu/~ray/notes/openglexamples/)
 
+[opengl programming guide](http://www.csc.villanova.edu/~mdamian/Textbooks/opengl_programming_guide_8th_edition.pdf)
 
 
 ### What Is OpenGL?
@@ -11,6 +12,11 @@ merely a software library for accessing features in graphics hardware.
 Version 4.3 of the OpenGL library (which this text covers) contains over
 500 distinct commands that you use to specify the objects, images, and
 operations needed to produce interactive three-dimensional computergraphics applications.
+
+page - 55,57, 62
+
+display mode
+
 
 
 
