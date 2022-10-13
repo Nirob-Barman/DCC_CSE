@@ -1,0 +1,9 @@
+ To build the glut dll: 
+       First, open Microsoft Developer Studio.
+       Then, select File -> Open Workspace and find the glut.dsw file
+       in the file dialog and double-click on it.  
+       Finally, select Build -> Build glut32.dll.
+       When the build is finished, it will copy:
+       glut32.dll to %WinDir%\System, 
+       glut32.lib to $(MSDevDir)\..\..\VC98\lib, and 
+       glut.h     to $(MSDevDir)\..\..\VC98\include\GL.
