@@ -43,11 +43,11 @@ Working:
 
             Ex: Folder Namme : 20A / C:\xampp\htdocs\20A
 
-5. The first page of project will be index or home page(ex. index.html)
+5. Landing / Home page / The first page of project will be index or home page(ex. index.html)
 
             Web address: http://localhost/20A
             
-            or 
+            or http://localhost/20A/insert.html
 
 6. .
 
