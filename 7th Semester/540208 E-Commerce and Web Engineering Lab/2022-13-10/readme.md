@@ -43,7 +43,15 @@ Working:
 
             Ex: Folder Namme : 20A / C:\xampp\htdocs\20A
 
-6. 
+5. The first page of project will be index or home page(ex. index.html)
+
+            Web address: http://localhost/20A
+            
+            or 
+
+6. .
+
+
 
 
 
