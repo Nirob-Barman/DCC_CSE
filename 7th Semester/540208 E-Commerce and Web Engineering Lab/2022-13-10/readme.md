@@ -1,4 +1,5 @@
-Front-end
+Front-end 
+
 1. HTML
 2. CSS
 3. JavaScript (JS)
@@ -10,6 +11,8 @@ Backend
 or 
 
 Java, C#, Python, Node JS, React, etc
+
+* Xampp used for PHP/MySQL
 
 
 Target: A complete dynamic website
