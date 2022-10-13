@@ -27,6 +27,7 @@ Tools:
 
 1. Local server(Xampp/wamp) or Online Server
 2. Editor (Notepad++,VS Coode, Sublime Text etc)
+3. Browser Softare (to run website / webpage)
 
 
 Working:
