@@ -35,9 +35,15 @@ Working:
 2. Start XAMPP Control panel
 
       i. Apache Service
+      
       ii. MySQL Service
 
-3. 
+3. Click explore to open xampp folder
+4. Open 'htdocs' folder and create/store project folder/files.
+
+            Ex: Folder Namme : 20A / C:\xampp\htdocs\20A
+
+6. 
 
 
 
