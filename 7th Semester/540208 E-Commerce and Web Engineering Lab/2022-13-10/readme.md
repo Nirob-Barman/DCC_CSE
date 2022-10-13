@@ -27,8 +27,15 @@ Tools:
 
 1. Local server(Xampp/wamp) or Online Server
 2. Editor (Notepad++,VS Coode, Sublime Text etc)
-3. 
 
+
+Working:
+
+1. XAMPP donwload and install
+2. Start XAMPP Control panel
+      i. Apache Service
+      ii. MySQL Service
+3. 
 
 
 
