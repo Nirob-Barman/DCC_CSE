@@ -43,6 +43,9 @@ main()
     yylex();
 }
 
+
+press esc
+
 :wq
 
 
