@@ -57,6 +57,9 @@ gcc lex.yy.c -ifl
 
 ./a.out
 
+
+Press Ctrl+D
+
 ```
 
 
