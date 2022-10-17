@@ -45,4 +45,18 @@ main()
 
 :wq
 
+
+
+
+
+vim verb_nirob.l
+vim verb_nirob.l
+flex verb_nirob.l
+gcc lex.yy.c -ifl
+
+
+
+
 ```
+
+
