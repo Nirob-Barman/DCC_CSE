@@ -57,8 +57,10 @@ gcc lex.yy.c -ifl
 
 ./a.out
 
-
-
 ```
+
+
+:wq   ----- for save and exit
+
 
 
