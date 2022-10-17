@@ -55,6 +55,8 @@ flex verb_nirob.l
 gcc lex.yy.c -ifl
 
 
+./a.out
+
 
 
 ```
