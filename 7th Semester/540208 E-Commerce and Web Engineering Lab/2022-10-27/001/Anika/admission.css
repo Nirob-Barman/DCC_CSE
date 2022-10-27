@@ -1,0 +1,49 @@
+h1
+{
+	color : pink;
+	text-align : center;
+	background-color : slateblue; 
+	
+}
+nav
+{
+	background-color : LightBlue;
+	display : flex ;
+	justify-content : space-evenly;
+}
+
+nav a
+{
+	text-decoration : none;
+	font-size : larger;
+	font-weight : 600;
+	padding : 20px;
+}
+
+.info
+{
+	margin-top : 30px;
+	font-size : larger;
+	font-weight : bolder;
+	
+}
+
+.btn-info
+{
+	margin-top : 15px;
+	padding : 9px;
+	border : none;
+	background-color : slateblue ;
+	color : white ;
+	border-radius : 5px;
+}
+
+footer
+{   margin-top : 30px;
+	background-color : slateblue;
+	color : white ;
+	text-align : center;
+	padding : 20px;
+	font-size : larger;
+	font-weight : bolder;
+}
