@@ -1,3 +1,3 @@
-1. write a program in OpenGl to draw a line using bresenham algorithm
+3. write a program in OpenGl to draw a line using bresenham algorithm
 
-2. write a program in OpenGl to draw a circle using bresenham algorithm
+4. write a program in OpenGl to draw a circle using bresenham algorithm
