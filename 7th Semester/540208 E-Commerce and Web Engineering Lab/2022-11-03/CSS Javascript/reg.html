@@ -1,0 +1,127 @@
+
+<!doctype html>
+<html>
+	<head>
+		<title> Welcome to Web Design </title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<style type="text/css">
+			#container{
+				width:  400px;
+				margin:  0px auto;
+			}
+			nav{
+				display: block;
+				background-color: black;
+				color:  white;
+			}
+			nav a {
+				color:  white;
+				padding:  5px 10px;
+				display: inline-block;
+				text-decoration: none;
+				font-weight: bold;
+			}
+			nav a:hover{
+				color:  yellow;
+			}
+			.row{
+				margin-bottom: 10px;
+				background-color: #CCC;
+				padding:  5px;
+			}
+			.row label{
+				width: 72px;
+				display: inline-block;
+				font-weight: bold;
+			}
+			.w3{
+				width: 180px;
+			}
+			.msg{
+				display: none;
+				color:  red;
+			}
+			@media print{
+				header, footer{
+					display: none;
+				}
+			}
+		</style>
+		<script type="text/javascript">
+			function showMsg(){
+				document.getElementById('msg').style.display = 'block';
+			}
+			function hideMsg(){
+				document.getElementById('msg').style.display = 'none';
+			}
+		</script>
+	</head>
+	<body>
+		<header>
+			<h1> LMS - Library Management System </h1> 
+			<nav>
+				<a href="index.html">Home</a> 
+				<a href="books.html">Booklist</a>
+				<a href="reg.html">Registration</a>
+				<a href="contact.html">Contact</a> 
+			</nav>
+		</header>
+		<div id="container"> 
+			<h2> Registration Form </h2>
+			<form method="post" action="" enctype="multipart/form-data">
+				<div class="row">
+					<label>Name: </label> <input type="text" class="w3" name="sname" placeholder="Enter your full name." required>
+				</div>
+				<div class="row">
+					<label>DoB:</label> <input type="date" class="w3" name="dob"> 
+				</div>
+				<div class="row">
+					<label>Email:</label> <input type="email" class="w3" name="email" required>
+				</div>
+				<div class="row">
+					<label>Password:</label> <input type="password" class="w3" name="password" onclick="showMsg();" onfocusout="hideMsg();"> 
+					<div class="msg" id="msg"> 
+						Notes: <ol>
+							<li>At least one uppercase</li>
+							<li>One number</li>
+							<li>One Special Char</li>
+							<li>Minimum length 8 char</li>
+						</ol>
+					</div>
+				</div>
+				<div class="row">
+					<label>Gender:</label> <input type="radio" name="gender" value="F"> Female
+						<input type="radio" name="gender" value="M"> Male
+				</div>
+				<div class="row">
+					<label>Hobby: </label>
+					<input type="checkbox" name="hobby[]" value="reading"> Reading 
+					<input type="checkbox" name="hobby[]" value="playing"> Playing 
+					<input type="checkbox" name="hobby[]" value="travelling"> Travelling 
+					<input type="checkbox" name="hobby[]" value="cooking"> Cooking 
+				</div>
+				<div class="row">
+					<label>Religion:</label> 
+					<select name="rel" class="w3">
+						<option value="Islam">Islam</option>
+						<option value="Hindu">Hindu</option>
+					</select> 
+				</div>
+				<div class="row">
+					<label>About:</label><textarea  class="w3" rows="3" cols="30" placeholder="Write about your study."></textarea> 
+				</div>
+				<div class="row">
+					<label>Picture:</label> <input type="file" name="pic"> 
+				</div>
+				<div class="row">
+					<input type="reset" name="reset" value="Reset">
+					<button type="submit" name="submit"> Submit </button>
+				</div>
+			</form>
+		</div>
+		<footer>
+			<p> &copy; 2022; Dept. of CSE, Dhaka City College.</p>
+		</footer> 
+	</body>
+</html>
