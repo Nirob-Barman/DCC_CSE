@@ -1,0 +1,26 @@
+1. HTML
+2. CSS
+3. JS
+
+4. PHP (as like C)/MySQL  
+
+Target: A complete dynamic website 
+
+Tools: 
+	1. Local server (xampp/wamp) or Online server ( to access website ) 
+	2. Notepad++ / VS Code /Sublime Text /etc. (to add/edit files / wirte code ) 
+	3. Browser software ( to run website/ webpage) 
+
+Working:
+	1. XAMPP download and install 
+	2. Run XAMPP Control panel and start: 
+		i. Apache service
+		ii. MySQL service 
+	3. Click explore to open xampp folder
+	4. Open 'htdocs' folder and create/store project folder/files. 
+		Ex: C:\xampp\htdocs\20a
+	5. Landing page/ Home page / The first page of project will be index or home page (Ex. index.html / index.php )
+		Web address: http://localhost/20a 
+		or  http://localhost/20a/index.html 
+		
+		
