@@ -1,5 +1,5 @@
 #include<windows.h>
-#include<math.h>
+#include<GL/gl.h>
 #include<GL/glut.h>
 
 void triangle()
@@ -50,7 +50,7 @@ int main(int argc,char** argv)
     glutInitDisplayMode(GLUT_SINGLE|GLUT_RGB);
     glutInitWindowSize(350,350);
     glutInitWindowPosition(100,100);
-    glutCreateWindow("Transformation\n");
+    glutCreateWindow("Transformation");
 
     init();
     glutDisplayFunc(display);
