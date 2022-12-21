@@ -30,8 +30,8 @@ void display()
 
     glTranslatef(70.0,20.0,0.0);
     glEnable(GL_LINE_STIPPLE);
-    glLineStipple(11,0xF0F0);
-    line(100,1550,100,250);
+    glLineStipple(1,0xF0F0);
+    line(100,150,100,250);
 
     triangle();
 
