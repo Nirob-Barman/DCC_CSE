@@ -31,7 +31,7 @@ gcc lex.yy.c
 ./a.out
 
 
-
+```
 789
 789: is an integer.
 
@@ -54,7 +54,7 @@ gcc lex.yy.c
 
 -789
 -789: is an integer.
-
+```
 
 
 
