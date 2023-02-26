@@ -2,6 +2,38 @@ cisco packet tracer
 
 how to configure router
 
+router - CLI
+
+exit 
+
+- enable
+- configure terminal
+- interface fastethernet 0/0
+- ip address 192.168.1.1 255.255.255.0
+- no shutdown
+- exit
+
+#### 192.168.1.1 is the router address
+
+
+
+![image](https://user-images.githubusercontent.com/47166768/221394171-eb4c4d36-3f97-4737-b5b4-c3d2a72b5b81.png)
+
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/47166768/221393910-ffde5f95-136e-4d86-bc44-53c423d0db21.png)
+
+
+![image](https://user-images.githubusercontent.com/47166768/221394030-e439a7f0-e1a9-4e50-afb2-c70b8e0ba64e.png)
+
+
+
+Router enable
+
 how to configure switch
 
 
