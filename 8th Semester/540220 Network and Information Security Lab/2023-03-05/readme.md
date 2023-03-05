@@ -76,3 +76,9 @@ PC1
 ![image](https://user-images.githubusercontent.com/47166768/222943302-18f1dd2a-a998-43cb-8846-7458d7322867.png)
 
 Save
+
+PC0 -> Email -> Compose 
+
+![image](https://user-images.githubusercontent.com/47166768/222943343-a10eb41b-32f0-4833-a88f-1c5291768086.png)
+
+
