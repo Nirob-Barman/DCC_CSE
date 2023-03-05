@@ -53,3 +53,12 @@ Router#
 
 ![image](https://user-images.githubusercontent.com/47166768/222943035-9ef126dc-718f-4465-a7ed-ad7bd992923e.png)
 
+![image](https://user-images.githubusercontent.com/47166768/222943069-14c711ee-f9f6-43d7-9351-9aa8823a66ea.png)
+
+
+
+services -> Email -> 
+
+domain name -> user -> password -> + icon -> set 
+
+![image](https://user-images.githubusercontent.com/47166768/222943161-e2943b2a-aa79-4773-80c1-dcb63e8266a4.png)
