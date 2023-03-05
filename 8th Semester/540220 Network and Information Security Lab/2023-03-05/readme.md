@@ -62,3 +62,11 @@ services -> Email ->
 domain name -> user -> password -> + icon -> set 
 
 ![image](https://user-images.githubusercontent.com/47166768/222943161-e2943b2a-aa79-4773-80c1-dcb63e8266a4.png)
+
+![image](https://user-images.githubusercontent.com/47166768/222943193-6d59bf51-c00f-4580-8ab7-101bdf03a799.png)
+
+PCOO -> Desktop -> Email -> 
+
+![image](https://user-images.githubusercontent.com/47166768/222943258-a2283006-9fd4-4afb-9b8d-ee5140b94db4.png)
+
+Save
