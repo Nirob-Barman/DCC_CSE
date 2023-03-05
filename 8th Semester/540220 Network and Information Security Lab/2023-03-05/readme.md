@@ -87,7 +87,9 @@ PC0 -> Email -> Compose
 ![image](https://user-images.githubusercontent.com/47166768/222943641-fcce4af1-cb27-4ad6-bff1-49ec41bda45e.png)
 
 
+![image](https://user-images.githubusercontent.com/47166768/222943759-df72064e-7f68-4c76-98b0-84fa7cd11705.png)
 
+![image](https://user-images.githubusercontent.com/47166768/222943814-fa95e702-6f21-4988-ae60-269eb27bc4bd.png)
 
 
 
