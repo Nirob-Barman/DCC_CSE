@@ -70,3 +70,9 @@ PCOO -> Desktop -> Email ->
 ![image](https://user-images.githubusercontent.com/47166768/222943258-a2283006-9fd4-4afb-9b8d-ee5140b94db4.png)
 
 Save
+
+PC1
+
+![image](https://user-images.githubusercontent.com/47166768/222943302-18f1dd2a-a998-43cb-8846-7458d7322867.png)
+
+Save
