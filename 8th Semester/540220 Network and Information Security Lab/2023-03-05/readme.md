@@ -10,3 +10,41 @@
 
 
 
+Router>enable
+Router#configure terminal
+Enter configuration commands, one per line.  End with CNTL/Z.
+Router(config)#interface fastethernet 0/0
+Router(config-if)#ip address 192.168.1.1 255.255.255.0
+Router(config-if)#no shutdown
+
+Router(config-if)#
+%LINK-5-CHANGED: Interface FastEthernet0/0, changed state to up
+
+%LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/0, changed state to up
+exit
+Router(config)#enable
+% Incomplete command.
+Router(config)#configure terminal
+                     ^
+% Invalid input detected at '^' marker.
+	
+Router(config)#interface fastethernet 0/1
+Router(config-if)#ip address 192.168.2.1 255.255.255.0
+Router(config-if)#no shutdown
+
+Router(config-if)#
+%LINK-5-CHANGED: Interface FastEthernet0/1, changed state to up
+exitt
+                      ^
+% Invalid input detected at '^' marker.
+	
+Router(config-if)#exit
+Router(config)#exit
+Router#
+%SYS-5-CONFIG_I: Configured from console by console
+
+Router#
+
+![image](https://user-images.githubusercontent.com/47166768/222942972-6b7a2555-b430-459e-abd8-dfe0928af745.png)
+
+
