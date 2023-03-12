@@ -11,10 +11,15 @@
 
 
 Router>enable
+
 Router#configure terminal
+
 Enter configuration commands, one per line.  End with CNTL/Z.
+
 Router(config)#interface fastethernet 0/0
+
 Router(config-if)#ip address 192.168.1.1 255.255.255.0
+
 Router(config-if)#no shutdown
 
 Router(config-if)#
@@ -22,6 +27,7 @@ Router(config-if)#
 
 %LINEPROTO-5-UPDOWN: Line protocol on Interface FastEthernet0/0, changed state to up
 exit
+
 Router(config)#enable
 % Incomplete command.
 Router(config)#configure terminal
