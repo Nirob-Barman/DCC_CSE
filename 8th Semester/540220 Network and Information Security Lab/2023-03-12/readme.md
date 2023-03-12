@@ -121,15 +121,15 @@ Router#
 ![image](https://user-images.githubusercontent.com/47166768/224526448-dc94cd61-a6c4-43a8-a2c3-a0d045b4a5ef.png)
 
 
-Router(config-if)#exit
-Router(config)#router rip
-Router(config-router)#network 192.168.1.0
-Router(config-router)#network 192.168.2.0
-Router(config-router)#network 10.0.0.0
-Router(config-router)#exit
-Router(config)#
-Router(config)#router rip
-Router(config-router)#
+* Router(config-if)#exit
+* Router(config)#router rip
+* Router(config-router)#network 192.168.1.0
+* Router(config-router)#network 192.168.2.0
+* Router(config-router)#network 10.0.0.0
+* Router(config-router)#exit
+* Router(config)#
+* Router(config)#router rip
+* Router(config-router)#
 
 
 
@@ -137,14 +137,21 @@ Router(config-router)#
 
 ![image](https://user-images.githubusercontent.com/47166768/224526413-e3f608cc-b4c5-48a7-90c0-f172da61492b.png)
 
-Router>enable
-Router#configure terminal
-Enter configuration commands, one per line.  End with CNTL/Z.
-Router(config)#router rip
-Router(config-router)#network 192.168.3.0
-Router(config-router)#
-Router(config-router)#network 192.168.4.0
-Router(config-router)#network 10.0.0.0
-Router(config-router)#
+- Router>enable
+- Router#configure terminal
+- Enter configuration commands, one per line.  End with CNTL/Z.
+- Router(config)#router rip
+- Router(config-router)#network 192.168.3.0
+- Router(config-router)#
+- Router(config-router)#network 192.168.4.0
+- Router(config-router)#network 10.0.0.0
+- Router(config-router)#
 
 
+
+![image](https://user-images.githubusercontent.com/47166768/224526605-0ef99c21-b341-438a-98a9-a2daf354dd28.png)
+
+
+
+
+* ping 192.168.1.0
