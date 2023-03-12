@@ -154,4 +154,10 @@ Router#
 
 
 
-* ping 192.168.1.0
+* ping 192.168.1.1
+* ping 192.168.2.1
+
+pc -> desktop -> command promopt
+
+![image](https://user-images.githubusercontent.com/47166768/224526704-8b2a3d78-3c7f-4d32-8c2f-1934ef7ee47f.png)
+
