@@ -10,4 +10,11 @@ Design and configure a RIP (Routing Information Protocol) By using RIPv1 or RIPv
 * Ping snapshot
 * message passing snapshot
 
+![image](https://user-images.githubusercontent.com/47166768/230755574-41208bd7-7f8c-47bc-9b3e-169aeb70cad4.png)
+
+
+
+
+
+
 
