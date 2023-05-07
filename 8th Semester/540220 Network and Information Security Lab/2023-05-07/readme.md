@@ -79,6 +79,7 @@ Building configuration...
 [OK]
 R2#
 
+
 ![image](https://user-images.githubusercontent.com/47166768/236659797-4119b5c1-0775-431f-8165-95a66bf639ee.png)
 
 
@@ -86,9 +87,6 @@ R2#
 
 
 ![image](https://user-images.githubusercontent.com/47166768/236659903-8e1838ea-3598-49b3-96d7-4f2e603e9ef7.png)
-
-
-
 
 
 
